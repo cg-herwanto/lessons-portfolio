@@ -1,5 +1,15 @@
 {
-  "lessons": [],
+  "lessons": [
+    {
+      "id": "xzeqj2ata3kmmda4hzp",
+      "title": "IPW Presentation Guide",
+      "url": "https://ipw-presentation-guide.netlify.app",
+      "desc": "An overview and presentation guide for Sec 2 students doing Interdisciplinary Project Work",
+      "subject": "IPW",
+      "level": "Sec2",
+      "created": 1772703887893
+    }
+  ],
   "cfg": {
     "name": "Cg Herwanto",
     "sub": "Secondary Lessons",
